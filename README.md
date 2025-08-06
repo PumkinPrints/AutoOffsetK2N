@@ -17,5 +17,5 @@ Installation:
   
     press_gcode:
       
-      RESPOND MSG="Z offset button PRESSED"
+      RESPOND MSG="Z offset button PRESSED"  ; Optional, Comment out if you don't like it/
     
